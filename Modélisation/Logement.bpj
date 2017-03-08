@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?PowerDesigner AppLocale="UTF16" ID="{A11DB1B3-DD62-4CBF-83B7-63126BBC56CC}" Label="" LastModificationDate="1488970626" Name="Logement" Objects="5" Symbols="3" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" signature="PRJ_MODEL_XML" version="15.1.0.2850"?>
+<?PowerDesigner AppLocale="UTF16" ID="{A11DB1B3-DD62-4CBF-83B7-63126BBC56CC}" Label="" LastModificationDate="1488974152" Name="Logement" Objects="5" Symbols="3" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" signature="PRJ_MODEL_XML" version="15.1.0.2850"?>
 <!-- Veuillez ne pas modifier ce fichier -->
 
 <Model xmlns:a="attribute" xmlns:c="collection" xmlns:o="object">
@@ -12,8 +12,22 @@
 <a:Code>Logement</a:Code>
 <a:CreationDate>1488388421</a:CreationDate>
 <a:Creator>Kane</a:Creator>
-<a:ModificationDate>1488388421</a:ModificationDate>
+<a:ModificationDate>1488971484</a:ModificationDate>
 <a:Modifier>Kane</a:Modifier>
+<a:PackageOptionsText>[FolderOptions]
+
+[FolderOptions\Project Objects]
+GenerationCheckModel=Yes
+GenerationPath=
+GenerationOptions=
+GenerationTasks=
+GenerationTargets=
+GenerationSelections=
+RbldDeplinkFile=Yes
+RbldDeplinkGene=Yes
+RbldDeplinkRefr=Yes
+RbldDeplinkMapp=Yes
+RbldDeplinkOpnm=Yes</a:PackageOptionsText>
 <a:ModelOptionsText>[ModelOptions]
 
 [ModelOptions\Prj options]
@@ -477,7 +491,7 @@ LABL 0 Arial,8,N</a:FontList>
 <a:Code>ModeleOrienteObjet_1</a:Code>
 <a:CreationDate>1488388467</a:CreationDate>
 <a:Creator>Kane</a:Creator>
-<a:ModificationDate>1488390809</a:ModificationDate>
+<a:ModificationDate>1488974146</a:ModificationDate>
 <a:Modifier>Kane</a:Modifier>
 <a:Location>file:///%[PRJ_ROOT_DIR]%/ModeleOrienteObjet_1.moo</a:Location>
 <a:Extension>moo</a:Extension>
@@ -503,7 +517,7 @@ LABL 0 Arial,8,N</a:FontList>
 <a:Code>MODELECONCEPTUELDONNEES_1</a:Code>
 <a:CreationDate>1488968789</a:CreationDate>
 <a:Creator>Kane</a:Creator>
-<a:ModificationDate>1488970626</a:ModificationDate>
+<a:ModificationDate>1488974152</a:ModificationDate>
 <a:Modifier>Kane</a:Modifier>
 <a:Location>file:///%[PRJ_ROOT_DIR]%/ModeleConceptuelDonnees_1.mcd</a:Location>
 <a:Extension>mcd</a:Extension>
