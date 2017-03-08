@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<<<<<<< HEAD
-<?PowerDesigner AppLocale="UTF16" ID="{C42EFA3B-06C1-4203-A55C-FBE69FAD1A1E}" Label="" LastModificationDate="1488987597" Name="ModeleConceptuelDonnees_1" Objects="45" Symbols="9" Type="{1E597170-9350-11D1-AB3C-0020AF71E433}" signature="CDM_DATA_MODEL_XML" version="15.1.0.2850"?>
-=======
 <?PowerDesigner AppLocale="UTF16" ID="{C42EFA3B-06C1-4203-A55C-FBE69FAD1A1E}" Label="" LastModificationDate="1488974641" Name="ModeleConceptuelDonnees_1" Objects="45" Symbols="9" Type="{1E597170-9350-11D1-AB3C-0020AF71E433}" signature="CDM_DATA_MODEL_XML" version="15.1.0.2850"?>
->>>>>>> 4e115a769c307359f27ea3a2f46e2ee8acd3dc33
 <!-- Veuillez ne pas modifier ce fichier -->
 
 <Model xmlns:a="attribute" xmlns:c="collection" xmlns:o="object">
@@ -1229,15 +1225,9 @@ CARD 0 Arial,8,N</a:FontList>
 </o:AssociationLinkSymbol>
 <o:InheritanceRootLinkSymbol Id="o13">
 <a:CreationDate>1488971162</a:CreationDate>
-<<<<<<< HEAD
-<a:ModificationDate>1488987586</a:ModificationDate>
-<a:Rect>((-15617,-5663), (-11943,8925))</a:Rect>
-<a:ListOfPoints>((-13780,-5663),(-13780,8925))</a:ListOfPoints>
-=======
 <a:ModificationDate>1488971168</a:ModificationDate>
 <a:Rect>((-15993,-1163), (-11419,8925))</a:Rect>
 <a:ListOfPoints>((-13706,-1163),(-13706,8925))</a:ListOfPoints>
->>>>>>> 4e115a769c307359f27ea3a2f46e2ee8acd3dc33
 <a:CornerStyle>1</a:CornerStyle>
 <a:ArrowStyle>1</a:ArrowStyle>
 <a:LineColor>16744576</a:LineColor>
@@ -1255,15 +1245,9 @@ CARD 0 Arial,8,N</a:FontList>
 </o:InheritanceRootLinkSymbol>
 <o:InheritanceLinkSymbol Id="o16">
 <a:CreationDate>1488971162</a:CreationDate>
-<<<<<<< HEAD
-<a:ModificationDate>1488987586</a:ModificationDate>
-<a:Rect>((-13762,-11550), (-13715,-5663))</a:Rect>
-<a:ListOfPoints>((-13715,-11550),(-13762,-5663))</a:ListOfPoints>
-=======
 <a:ModificationDate>1488969420</a:ModificationDate>
 <a:Rect>((-13651,-11550), (-13612,-1163))</a:Rect>
 <a:ListOfPoints>((-13651,-11550),(-13651,-4995),(-13612,-4995),(-13612,-1163))</a:ListOfPoints>
->>>>>>> 4e115a769c307359f27ea3a2f46e2ee8acd3dc33
 <a:CornerStyle>1</a:CornerStyle>
 <a:ArrowStyle>0</a:ArrowStyle>
 <a:LineColor>16744576</a:LineColor>
@@ -1361,13 +1345,8 @@ LABL 0 Arial,8,N</a:FontList>
 </o:AssociationSymbol>
 <o:InheritanceSymbol Id="o14">
 <a:CreationDate>1488971162</a:CreationDate>
-<<<<<<< HEAD
-<a:ModificationDate>1488987586</a:ModificationDate>
-<a:Rect>((-14562,-6163), (-12963,-5164))</a:Rect>
-=======
 <a:ModificationDate>1488971168</a:ModificationDate>
 <a:Rect>((-14412,-1663), (-12813,-664))</a:Rect>
->>>>>>> 4e115a769c307359f27ea3a2f46e2ee8acd3dc33
 <a:LineColor>16744576</a:LineColor>
 <a:FillColor>16777136</a:FillColor>
 <a:ShadowColor>12632256</a:ShadowColor>
@@ -1580,21 +1559,12 @@ LABL 0 Arial,8,N</a:FontList>
 <c:Inheritances>
 <o:Inheritance Id="o15">
 <a:ObjectID>452F21A7-8358-4C1F-B95D-3492C5738C34</a:ObjectID>
-<<<<<<< HEAD
-<a:Name>Heritage</a:Name>
-<a:Code>HERITAGE</a:Code>
-<a:CreationDate>1488971162</a:CreationDate>
-<a:Creator>Kane</a:Creator>
-<a:ModificationDate>1488987597</a:ModificationDate>
-<a:Modifier>BirahimSECK</a:Modifier>
-=======
 <a:Name>Heritage_1</a:Name>
 <a:Code>HERITAGE_1</a:Code>
 <a:CreationDate>1488971162</a:CreationDate>
 <a:Creator>Kane</a:Creator>
 <a:ModificationDate>1488971162</a:ModificationDate>
 <a:Modifier>Kane</a:Modifier>
->>>>>>> 4e115a769c307359f27ea3a2f46e2ee8acd3dc33
 <a:BaseLogicalInheritance.Complete>0</a:BaseLogicalInheritance.Complete>
 <c:ParentEntity>
 <o:Entity Ref="o19"/>
@@ -1853,11 +1823,7 @@ LABL 0 Arial,8,N</a:FontList>
 <a:Creator>Kane</a:Creator>
 <a:ModificationDate>1488974641</a:ModificationDate>
 <a:Modifier>Kane</a:Modifier>
-<<<<<<< HEAD
-<a:TargetModelURL>file:///C|/ModeleConceptuelDonnees_1.mld</a:TargetModelURL>
-=======
 <a:TargetModelURL>file:///%[PRJ_ROOT_DIR]%/ModeleConceptuelDonnees_1.mld</a:TargetModelURL>
->>>>>>> 4e115a769c307359f27ea3a2f46e2ee8acd3dc33
 <a:TargetModelID>143E4324-D8B4-4392-9175-31FA645CB456</a:TargetModelID>
 <a:TargetModelClassID>5F45F978-C4F3-4E35-A3FC-AF3318663A0F</a:TargetModelClassID>
 <c:SessionShortcuts>
