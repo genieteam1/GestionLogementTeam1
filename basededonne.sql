@@ -10,9 +10,7 @@ drop table if exists ROLE;
 
 drop table if exists UTILISATEUR;
 
-/*==============================================================*/
-/* Table : ETUDIANT                                             */
-/*==============================================================*/
+
 create table ETUDIANT
 (
    ID_UTILISATEUR       int not null,
