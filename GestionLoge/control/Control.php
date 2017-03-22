@@ -1,5 +1,8 @@
 <?php
 require 'model/connexion.php';
+require 'model/Utilisateur.php';
+require 'control/UtilisateurController.php';
+
 function accueil() {
 	require 'view/login.php';
 }
@@ -11,7 +14,11 @@ function connexion($login, $password) {
 			require 'view/etudiant.php';
 			return false;
 		} elseif($user->ID_ROLE == 4) {
-			echo 'bonjour';
+			require 'view/dgcrous.php';
+			return ;
+		}elseif($user->ID_ROLE == 5) {
+			require 'view/dgcrous.php';
+			return ;
 		}
 	} else {
 		require 'view/login.php';
@@ -75,7 +82,34 @@ function verifierCSV($fichier) {
 }
 
 function logout() {
-	unset($_SESSION);
-	header("location : view/login.php");
+	session_destroy();
+	header("location : index.php");
 }
+
+function listerUtilisateur() {
+	$u = new UtilisateurController();
+	$u->lister();
+}
+
+function ajouterUtilisateur() {
+	$u = new UtilisateurController();
+	$u->ajouter();
+}
+
+function accueilUtilisateur() {
+	$u = new UtilisateurController();
+	$u->accueil();
+}
+
+function updateUtilisateur($role, $prenom, $nom, $adresse, $email, $telephone, $login, $id) {
+	$u = new UtilisateurController();
+	$u->update($role, $prenom, $nom, $adresse, $email, $telephone, $login, $id);
+}
+
+function addUtilisateur($role, $prenom, $nom, $adresse, $email, $telephone, $login) {
+	$u = new UtilisateurController();
+	$u->add($role, $prenom, $nom, $adresse, $email, $telephone, $login);
+}
+
+
 
