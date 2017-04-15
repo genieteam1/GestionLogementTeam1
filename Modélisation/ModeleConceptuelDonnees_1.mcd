@@ -1323,8 +1323,8 @@ Shadow=0
 <o:AssociationLinkSymbol Id="o7">
 <a:CreationDate>1490186402</a:CreationDate>
 <a:ModificationDate>1490187811</a:ModificationDate>
-<a:Rect>((-16606,76), (-12428,4504))</a:Rect>
-<a:ListOfPoints>((-14700,76),(-14828,2745),(-12428,2745),(-12428,4504))</a:ListOfPoints>
+<a:Rect>((-16462,76), (-12428,4504))</a:Rect>
+<a:ListOfPoints>((-14700,76),(-14700,2745),(-12428,2745),(-12428,4504))</a:ListOfPoints>
 <a:CornerStyle>1</a:CornerStyle>
 <a:ArrowStyle>0</a:ArrowStyle>
 <a:LineColor>16744576</a:LineColor>
@@ -1386,7 +1386,7 @@ CARD 0 Arial,8,N</a:FontList>
 <o:AssociationLinkSymbol Id="o17">
 <a:CreationDate>1490186408</a:CreationDate>
 <a:ModificationDate>1490199723</a:ModificationDate>
-<a:Rect>((25116,-2486), (35274,2634))</a:Rect>
+<a:Rect>((25116,-2486), (35312,2634))</a:Rect>
 <a:ListOfPoints>((35274,-2486),(35274,2634),(25116,2634))</a:ListOfPoints>
 <a:CornerStyle>1</a:CornerStyle>
 <a:ArrowStyle>0</a:ArrowStyle>
@@ -1407,7 +1407,7 @@ CARD 0 Arial,8,N</a:FontList>
 <o:AssociationLinkSymbol Id="o20">
 <a:CreationDate>1490186417</a:CreationDate>
 <a:ModificationDate>1490199723</a:ModificationDate>
-<a:Rect>((12300,-16253), (35022,-6739))</a:Rect>
+<a:Rect>((12300,-16253), (34984,-6739))</a:Rect>
 <a:ListOfPoints>((33222,-6739),(33222,-16253),(12300,-16253))</a:ListOfPoints>
 <a:CornerStyle>1</a:CornerStyle>
 <a:ArrowStyle>0</a:ArrowStyle>
@@ -1534,8 +1534,8 @@ CARD 0 Arial,8,N</a:FontList>
 <a:CreationDate>1490186451</a:CreationDate>
 <a:ModificationDate>1490199132</a:ModificationDate>
 <a:SourceTextOffset>(-1950, -662)</a:SourceTextOffset>
-<a:Rect>((-35487,-16188), (-25762,-8938))</a:Rect>
-<a:ListOfPoints>((-33062,-8938),(-32218,-16188),(-25762,-16188))</a:ListOfPoints>
+<a:Rect>((-35912,-16188), (-25762,-8938))</a:Rect>
+<a:ListOfPoints>((-33062,-8938),(-33062,-16188),(-25762,-16188))</a:ListOfPoints>
 <a:CornerStyle>1</a:CornerStyle>
 <a:ArrowStyle>0</a:ArrowStyle>
 <a:LineColor>16744576</a:LineColor>
@@ -1638,8 +1638,8 @@ CARD 0 Arial,8,N</a:FontList>
 <o:InheritanceLinkSymbol Id="o54">
 <a:CreationDate>1490201421</a:CreationDate>
 <a:ModificationDate>1490201421</a:ModificationDate>
-<a:Rect>((-31411,-7424), (-30825,-149))</a:Rect>
-<a:ListOfPoints>((-31411,-7424),(-30825,-149))</a:ListOfPoints>
+<a:Rect>((-30971,-7424), (-30825,-149))</a:Rect>
+<a:ListOfPoints>((-30971,-7424),(-30825,-149))</a:ListOfPoints>
 <a:CornerStyle>1</a:CornerStyle>
 <a:ArrowStyle>0</a:ArrowStyle>
 <a:LineColor>16744576</a:LineColor>
@@ -1677,8 +1677,8 @@ CARD 0 Arial,8,N</a:FontList>
 <o:InheritanceLinkSymbol Id="o59">
 <a:CreationDate>1490201424</a:CreationDate>
 <a:ModificationDate>1490201424</a:ModificationDate>
-<a:Rect>((-20536,526), (-19800,4237))</a:Rect>
-<a:ListOfPoints>((-20536,526),(-19800,4237))</a:ListOfPoints>
+<a:Rect>((-19984,526), (-19800,4237))</a:Rect>
+<a:ListOfPoints>((-19984,526),(-19800,4237))</a:ListOfPoints>
 <a:CornerStyle>1</a:CornerStyle>
 <a:ArrowStyle>0</a:ArrowStyle>
 <a:LineColor>16744576</a:LineColor>
@@ -3354,7 +3354,7 @@ ATT DTTP</a:History>
 <a:Creator>Kane</a:Creator>
 <a:ModificationDate>1490186067</a:ModificationDate>
 <a:Modifier>Kane</a:Modifier>
-<a:TargetModelURL>file:///%[PRJ_ROOT_DIR]%/ModeleConceptuelDonnees_1.mld</a:TargetModelURL>
+<a:TargetModelURL>file:///C|/Users/Kane/Documents/Genie/GestionLogementTeam1/Modélisation/ModeleConceptuelDonnees_1.mld</a:TargetModelURL>
 <a:TargetModelID>143E4324-D8B4-4392-9175-31FA645CB456</a:TargetModelID>
 <a:TargetModelClassID>5F45F978-C4F3-4E35-A3FC-AF3318663A0F</a:TargetModelClassID>
 <c:SessionShortcuts>
@@ -3369,7 +3369,7 @@ ATT DTTP</a:History>
 <a:Creator>Kane</a:Creator>
 <a:ModificationDate>1490201232</a:ModificationDate>
 <a:Modifier>Kane</a:Modifier>
-<a:TargetModelURL>file:///%[PRJ_ROOT_DIR]%/ModeleConceptuelDonnees_1.mpd</a:TargetModelURL>
+<a:TargetModelURL>file:///C|/Users/Kane/Documents/Genie/GestionLogementTeam1/Modélisation/ModeleConceptuelDonnees_1.mpd</a:TargetModelURL>
 <a:TargetModelID>5ABD3D9E-7714-4847-B032-63CC7C41D023</a:TargetModelID>
 <a:TargetModelClassID>CDE44E21-9669-11D1-9914-006097355D9B</a:TargetModelClassID>
 <c:SessionShortcuts>
@@ -3384,7 +3384,7 @@ ATT DTTP</a:History>
 <a:Creator>Kane</a:Creator>
 <a:ModificationDate>1490203456</a:ModificationDate>
 <a:Modifier>Kane</a:Modifier>
-<a:TargetModelURL>file:///%[PRJ_ROOT_DIR]%/ModeleConceptuelDonnees_1.mpd</a:TargetModelURL>
+<a:TargetModelURL>file:///C|/Users/Kane/Documents/Genie/GestionLogementTeam1/Modélisation/ModeleConceptuelDonnees_1.mpd</a:TargetModelURL>
 <a:TargetModelID>E343ACF8-BB02-48F3-A381-865FF10C6E3E</a:TargetModelID>
 <a:TargetModelClassID>CDE44E21-9669-11D1-9914-006097355D9B</a:TargetModelClassID>
 <c:SessionShortcuts>
